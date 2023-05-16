@@ -1,1 +1,1 @@
-# Exercises from DomJudge, Competetive Programming
+Exercises from DomJudge, Competetive Programming
