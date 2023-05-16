@@ -1,1 +1,1 @@
-# TP1
+# Exercises from DomJudge, Competetive Programming
